@@ -34,7 +34,7 @@ Repositorio dedicado ao projeto Pinkballoon 2026.1.
 | 🚫   | 13/jun | Sem material                | [Maratona Feminina](https://codeforces.com/group/nituVTsHQX/contest/697720) |
 | 7️⃣   | 20/jun | [Aula 7](slides/aula07.pdf) | [Contest 7](https://codeforces.com/group/3yVIkDXYtI/contest/699630)         |
 
-## 💡 Observações
+### 💡 Observações
 
 > 💡 **Contest 1**: focar principalmente nos problemas **G** e **H**.
 >
@@ -48,7 +48,7 @@ Repositorio dedicado ao projeto Pinkballoon 2026.1.
 >
 > 💡 **Contest 7**:
 
-# 🏁 Competições Especiais
+## 🏁 Competições Especiais
 
 | Evento                        | Link                                                              |
 | ----------------------------- | ----------------------------------------------------------------- |
@@ -61,7 +61,7 @@ Repositorio dedicado ao projeto Pinkballoon 2026.1.
 
 ---
 
-## 💡 Observações
+### 💡 Observações
 
 > 💡 **II Maratona SBC do Cerrado**:
 >
@@ -78,3 +78,39 @@ Repositorio dedicado ao projeto Pinkballoon 2026.1.
 > 💡 **Maratona APC**:
 >
 > 💡 **Maratona PinkBalloon**:
+
+## 📝 Colinha
+
+> Conceitos importantes para adicionar na colinha.
+
+- 📍 `lower_bound` / `upper_bound`
+- 🔍 Busca Binária
+- ➗ Aritmética Modular (`MOD`) <!-- problema com MOD-->
+- 📊 Prefix Sum (`psum`)
+- 📐 Fórmulas Matemáticas Gerais
+- 🧮 Crivo de Eratóstenes (Primos)
+
+<!--
+- ⚡ Soma Prefixa
+- 🎯 Two Pointers
+- 📦 STL útil (`set`, `map`, `priority_queue`)
+- 🌳 DFS / BFS
+- 🔗 Union-Find (DSU)
+- Bitmask, Programação Dinâmica, Matemática Combinatória, Geometria, Strings, Hashing
+-->
+
+## 🎓 Aulas Extras
+
+- [Introdução à Programação Competitiva](https://www.youtube.com/watch?v=srM35lUn7w4&list=PLbkzuS_3Evj_bgzKIiJ3RyvVkabTNl9-y)
+- [Matemática](https://www.youtube.com/watch?v=mpyrxkLAU-Y&list=PLbkzuS_3Evj__s69NMpfk9_7X0UASxLt_)
+- [Teoria dos Grafos](https://www.youtube.com/watch?v=UfWyOEE3w38&list=PLbkzuS_3Evj-LjHW-gf2Aai6b61UWc14t)
+- [Geometria Computacional](https://www.youtube.com/watch?v=9HiVTiR8nI0&list=PLbkzuS_3Evj-SeQLec1-j8_EsTuYRfpyX)
+- [Aritmética](https://www.youtube.com/watch?v=_LpvHSjLKig&list=PLbkzuS_3Evj9diV94jCiPN7IDOpXsf_T_)
+- [Grafos](https://www.youtube.com/watch?v=AKqDi0XJleA&list=PLbkzuS_3Evj9rUeUtNmpd2t7B_Mxy1kIM)
+
+## 📚 Biblioteca
+
+- 📘 [CSES](https://cses.fi/book/book.pdf)
+- 📗 Guide to Competitive Programming
+- 📙 Introduction to Algorithms (CLRS)
+- 📕 The Algorithm Design Manual
