@@ -38,7 +38,7 @@ Repositorio dedicado ao projeto Pinkballoon 2026.1.
 
 > 💡 **Contest 1**: focar principalmente nos problemas **G** e **H**.
 >
-> 💡 **Contest 2**:
+> 💡 **Contest 2**: focar principalmente no problema **J**.
 >
 > 💡 **Contest 3**:
 >
