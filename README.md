@@ -49,6 +49,7 @@ Repositorio dedicado ao projeto Pinkballoon 2026.1.
 > 💡 **Contest 7**:
 >
 > 🌟 **Contest 1 Proprio**: E(contest 2), J(contest 2), G(contest 1), H(contest 1), G(contest 3).
+>
 > 🌟 **Contest 2 Proprio**:
 
 ## 🏁 Competições Especiais
