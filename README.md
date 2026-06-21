@@ -58,6 +58,8 @@ Repositorio dedicado ao projeto Pinkballoon 2026.1.
 | 🚀 MFP                        | [Acessar](https://codeforces.com/group/hRSGIe7nvK/contest/693848) |
 | 👩‍💻 Maratona Feminina          | [Acessar](https://codeforces.com/group/nituVTsHQX/contest/697720) |
 | 🎯 Seletiva UnB               | Em breve                                                          |
+| 🌟 Maratona APC               | Em breve                                                          |
+| 🌸 Maratona PinkBalloon       | Em breve                                                          |
 
 ---
 
@@ -101,16 +103,16 @@ Repositorio dedicado ao projeto Pinkballoon 2026.1.
 
 ## 🎓 Aulas Extras
 
-- [Introdução à Programação Competitiva](https://www.youtube.com/watch?v=srM35lUn7w4&list=PLbkzuS_3Evj_bgzKIiJ3RyvVkabTNl9-y)
-- [Matemática](https://www.youtube.com/watch?v=mpyrxkLAU-Y&list=PLbkzuS_3Evj__s69NMpfk9_7X0UASxLt_)
-- [Teoria dos Grafos](https://www.youtube.com/watch?v=UfWyOEE3w38&list=PLbkzuS_3Evj-LjHW-gf2Aai6b61UWc14t)
-- [Geometria Computacional](https://www.youtube.com/watch?v=9HiVTiR8nI0&list=PLbkzuS_3Evj-SeQLec1-j8_EsTuYRfpyX)
-- [Aritmética](https://www.youtube.com/watch?v=_LpvHSjLKig&list=PLbkzuS_3Evj9diV94jCiPN7IDOpXsf_T_)
-- [Grafos](https://www.youtube.com/watch?v=AKqDi0XJleA&list=PLbkzuS_3Evj9rUeUtNmpd2t7B_Mxy1kIM)
+- 🎈 [Introdução à Programação Competitiva](https://www.youtube.com/watch?v=srM35lUn7w4&list=PLbkzuS_3Evj_bgzKIiJ3RyvVkabTNl9-y)
+- 🎈 [Matemática](https://www.youtube.com/watch?v=mpyrxkLAU-Y&list=PLbkzuS_3Evj__s69NMpfk9_7X0UASxLt_)
+- 🎈 [Teoria dos Grafos](https://www.youtube.com/watch?v=UfWyOEE3w38&list=PLbkzuS_3Evj-LjHW-gf2Aai6b61UWc14t)
+- 🎈 [Geometria Computacional](https://www.youtube.com/watch?v=9HiVTiR8nI0&list=PLbkzuS_3Evj-SeQLec1-j8_EsTuYRfpyX)
+- 🎈 [Aritmética](https://www.youtube.com/watch?v=_LpvHSjLKig&list=PLbkzuS_3Evj9diV94jCiPN7IDOpXsf_T_)
+- 🎈 [Grafos](https://www.youtube.com/watch?v=AKqDi0XJleA&list=PLbkzuS_3Evj9rUeUtNmpd2t7B_Mxy1kIM)
 
 ## 📚 Biblioteca
 
 - 📘 [CSES](https://cses.fi/book/book.pdf)
-- 📗 Guide to Competitive Programming
-- 📙 Introduction to Algorithms (CLRS)
-- 📕 The Algorithm Design Manual
+- 📗
+- 📙
+- 📕
