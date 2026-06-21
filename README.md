@@ -38,15 +38,18 @@ Repositorio dedicado ao projeto Pinkballoon 2026.1.
 
 > 💡 **Contest 1**: focar principalmente nos problemas **G** e **H**.
 >
-> 💡 **Contest 2**: focar principalmente no problema **J**.
+> 💡 **Contest 2**: focar principalmente no problema **E** e **J**.
 >
-> 💡 **Contest 3**:
+> 💡 **Contest 3**: focar principalmente no problema **G**.
 >
 > 💡 **Contest 4**:
 >
 > 💡 **Contest 6**:
 >
 > 💡 **Contest 7**:
+>
+> 🌟 **Contest 1 Proprio**: E(contest 2), J(contest 2), G(contest 1), H(contest 1), G(contest 3).
+> 🌟 **Contest 2 Proprio**:
 
 ## 🏁 Competições Especiais
 
